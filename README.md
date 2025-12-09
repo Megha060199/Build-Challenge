@@ -57,7 +57,7 @@ Pure-Python, stream-oriented analysis of Superstore-style order data (no pandas)
   source .venv/bin/activate
   ```
 - Install dependences (only coverage):
-  `pip3 install -r requirements.txt`
+  ` bash pip3 install -r requirements.txt`
 
 ## Data
 - Data is present in  `data/orders.csv` taken from `https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset`. All queries default to this path unless you pass a custom one.
