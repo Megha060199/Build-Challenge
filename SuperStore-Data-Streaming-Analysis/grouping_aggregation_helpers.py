@@ -6,6 +6,8 @@ from functools import reduce
 from math import sqrt
 from orders import Order
 
+##this file cotains generic grouping and aggregation helper functions##
+
 def aggregate_sum_by_key(
     orders: Iterable[Order],
     key_fn,
