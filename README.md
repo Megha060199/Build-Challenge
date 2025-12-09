@@ -56,9 +56,8 @@ Pure-Python, stream-oriented analysis of Superstore-style order data (no pandas)
   ```python3 -m venv .venv
   source .venv/bin/activate
   ```
-- Install dependences (only coverage is non-stdlib):
-  ```bash
-  pip3 install -r requirements.txt
+- Install dependences (only coverage):
+  ```pip3 install -r requirements.txt
   ```
 
 ## Data
