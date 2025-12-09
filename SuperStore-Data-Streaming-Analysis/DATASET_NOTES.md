@@ -66,12 +66,12 @@
 
   The dataset enables you to demonstrate every concept required in the assignment:
 
-    Requirement	                        How This Dataset Supports It
-  Functional Programming	       Build pure functions for each transformation/aggregation
-    Stream operations	           Use lazy reading, iterators, generators
-    Data aggregation	           Group by category, region, year, discount level, etc.
-    Lambda expressions	         Filtering, mapping, merging, grouping
-    Composite key grouping      (Region, Category), (Year, Market), (Category, Sub-Category) Complex aggregations	YOY, margins, profit                                   volatility, fulfillment times
+              Requirement	                        How This Dataset Supports It
+            Functional Programming	       Build pure functions for each transformation/aggregation
+              Stream operations	           Use lazy reading, iterators, generators
+              Data aggregation	           Group by category, region, year, discount level, etc.
+              Lambda expressions	         Filtering, mapping, merging, grouping
+              Composite key grouping      (Region, Category), (Year, Market), (Category, Sub-Category) Complex aggregations	YOY, margins, profit                                   volatility, fulfillment times
     
 
     This dataset naturally unlocks a wide variety of analytical functions that can be validated through unit tests.
